@@ -1,3 +1,18 @@
+# PART 1
+
+## Backpropagation
+
+![image](images/back_prop.png)
+
+## Variation of error with learning rate
+
+![image](images/lr_variation.png)
+
+
+
+
+#PART 2
+
 # Convolutional Neural Network for MNIST Classification
 
 This repository contains the code for training a convolutional neural network (CNN) in PyTorch to achieve above 99.4% validation accuracy on the MNIST dataset. The goal was to design a network with less than 20k parameters and trained within 20 epochs. Various techniques and architectural choices were explored to achieve this high accuracy under the given constraints.
